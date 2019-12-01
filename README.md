@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/zhouningyuan1234/yyy-The-second-issue-of-sand-carving-daily/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhouningyuan1234/yyy-The-second-issue-of-sand-carving-daily/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+	<head>
+		<title>沙雕日报</title>
+	    <style type="text/css">
+		<!--
+			.red{color:#FF0000}
+			.green{color:#00FF00}
+			.purple{color: #FF00FF}
+		-->
+        </style>
+	</head>
+  <body>
+	  <div>
+		他在宇宙中积累着垃圾的力量,<br>
+		他的能力日益增强着。<br>
+		他攻击的主要目标是还在荒废期的地球,<br>
+	  他把地球砸的一片荒芜,<br>
+	  地球就要毁灭了,<br>
+	  也许,<br>
+	  再1亿年后即将爆裂,<br>
+    <h1>1亿年后</h1><br>
+		恐龙出现了,<br>
+		具体他能否击败沙雕让我们下期揭晓哦!<br>
+	  剧透:<br>
+	  我王境泽就是饿死,<br>
+	  死外边,<br>
+	  从这里跳下去<br>
+	  也不吃你一点东西!(没有真香)<br>
+	  沙雕说:"就凭你,还想干我？"<br>
+	  B站天天看:<br>
+	  "鸡你太美!"<br>
+	  "喜欢唱、跳、Rap、篮球"<br>
+		广告时间:<br>
+		烤面筋的歌声把我灌醉,<br>
+		辣辣的感觉让人心醉。<br>
+		香香的口味让人梦里都回味。<br>
+		我的烤面筋,<br>
+		融化你的心。<br>
+	  </div>
+	  <div>沙雕日报:<button title="back"><a href="https://zhouningyuan1234.github.io/yyy-Sand-sculpture-daily/"><span class="purple">返回</span></a></button></div>
+  </body>
+  </html>
